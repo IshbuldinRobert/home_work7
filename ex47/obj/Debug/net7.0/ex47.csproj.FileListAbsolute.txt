@@ -1,0 +1,15 @@
+C:\Study\C#\home_work\hw7\ex47\bin\Debug\net7.0\ex47.exe
+C:\Study\C#\home_work\hw7\ex47\bin\Debug\net7.0\ex47.deps.json
+C:\Study\C#\home_work\hw7\ex47\bin\Debug\net7.0\ex47.runtimeconfig.json
+C:\Study\C#\home_work\hw7\ex47\bin\Debug\net7.0\ex47.dll
+C:\Study\C#\home_work\hw7\ex47\bin\Debug\net7.0\ex47.pdb
+C:\Study\C#\home_work\hw7\ex47\obj\Debug\net7.0\ex47.csproj.AssemblyReference.cache
+C:\Study\C#\home_work\hw7\ex47\obj\Debug\net7.0\ex47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\C#\home_work\hw7\ex47\obj\Debug\net7.0\ex47.AssemblyInfoInputs.cache
+C:\Study\C#\home_work\hw7\ex47\obj\Debug\net7.0\ex47.AssemblyInfo.cs
+C:\Study\C#\home_work\hw7\ex47\obj\Debug\net7.0\ex47.csproj.CoreCompileInputs.cache
+C:\Study\C#\home_work\hw7\ex47\obj\Debug\net7.0\ex47.dll
+C:\Study\C#\home_work\hw7\ex47\obj\Debug\net7.0\refint\ex47.dll
+C:\Study\C#\home_work\hw7\ex47\obj\Debug\net7.0\ex47.pdb
+C:\Study\C#\home_work\hw7\ex47\obj\Debug\net7.0\ex47.genruntimeconfig.cache
+C:\Study\C#\home_work\hw7\ex47\obj\Debug\net7.0\ref\ex47.dll
